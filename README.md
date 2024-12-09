@@ -44,6 +44,7 @@ ec2-51-20-9-189.eu-north-1.compute.amazonaws.com
 
 
 #8.Running the sentiment analysis with command line
+
 http://ec2-13-60-37-27.eu-north-1.compute.amazonaws.com/sentiment?Review=%22movie%20was%20boring%22
 
 
