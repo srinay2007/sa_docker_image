@@ -29,8 +29,6 @@ docker run -p 80:80 my-docker-image
 ![image](https://github.com/user-attachments/assets/5eeb412c-d973-4aaf-ad60-b2160360dfe7)
 
 
-![image](https://github.com/user-attachments/assets/1f883f88-231b-477e-8b05-5650ea95972c)
-
 #Viewing the sentiment analysis app on browser.
 #Copy the public ip address from aws console and copy in the browser url.
 
