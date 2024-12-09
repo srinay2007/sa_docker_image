@@ -1,15 +1,19 @@
 #This is a sample project to explain how to deploy a machine learning model for sentiment prediction on aws ec2 instance using docker image.
 
 #installing docker in aws ec2 instance
+
 sudo dnf install docker -y
 
 #starting docker service
+
 sudo service docker start
 
 #provide access to ec2-user to docker
+ 
  sudo usermod -a -G docker ec2-user
 
 #Build docker image
+ 
  docker build -t my-docker-image .
  
 ![image](https://github.com/user-attachments/assets/ecebe104-3d5f-492c-a166-76ab2569682d)
