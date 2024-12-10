@@ -7,7 +7,7 @@ Created on Tue Oct 10 18:44:32 2023
 import os
 import joblib
 import pandas as pd
-os.chdir("C://Users/rohit/Documents/2023/Data Science Training/My Data Science Course Slides/23_ML Ops 1/ML project example/")
+os.chdir("C://Users/sri/Documents/2023/Data Science Training/My Data Science Course Slides/23_ML Ops 1/ML project example/")
 from data_processing_and_features import text_data_cleaning, tfidf_features_transform
 
 model = joblib.load('model_classifier.pkl')
