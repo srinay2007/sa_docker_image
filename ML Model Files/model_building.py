@@ -2,7 +2,6 @@
 """
 Created on Tue Oct 10 18:44:10 2023
 
-@author: rohit
 """
 import pandas as pd
 from sklearn.metrics import confusion_matrix,accuracy_score,classification_report
