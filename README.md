@@ -49,3 +49,5 @@ http://ec2-13-60-37-27.eu-north-1.compute.amazonaws.com/sentiment?Review=%22movi
 
 
 ![image](https://github.com/user-attachments/assets/d33aa57d-ec27-49c1-a13c-22dc1a8cdd2d)
+
+#9.ML Model files including test and train data set are located under ML Model files folder.
