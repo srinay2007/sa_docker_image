@@ -2,7 +2,6 @@
 """
 Created on Tue Oct 10 18:43:01 2023
 
-@author: rohit
 """
 
 
