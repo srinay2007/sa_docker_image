@@ -2,7 +2,6 @@
 """
 Created on Tue Oct 10 12:53:00 2023
 
-@author: rohit
 """
 import pandas as pd
 import joblib
