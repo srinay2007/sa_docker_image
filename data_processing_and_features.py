@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 10 18:43:01 2023
 
-@author: rohit
+@author: Sridhar Pai
 """
 
 import regex as re
@@ -54,4 +54,5 @@ def tfidf_features_fit(df):
 def tfidf_features_transform(tfidf,df):
     tfidf_matrix = tfidf.transform(df['review']) 
     return tfidf_matrix.toarray()
+
    
