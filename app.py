@@ -2,7 +2,7 @@
 """
 Created on Thu Oct 12 13:47:24 2023
 
-@author: rohit
+@author: Sridhar Pai
 """
 
 
@@ -66,3 +66,4 @@ def sentiment():
 if __name__ == "__main__":
     #app.run()
     app.run(host="0.0.0.0", port=80)
+
